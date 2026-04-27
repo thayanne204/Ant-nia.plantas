@@ -1,5 +1,3 @@
-#Antônia Plantas
-
 🌿 Projeto Antonia Plantas: Landing Page High-End
 Este projeto consiste no desenvolvimento de uma vitrine digital sofisticada para a marca Antonia Plantas, especializada em Rosas do Deserto. O objetivo principal foi elevar o posicionamento de mercado da marca através de uma interface de alto luxo, unindo estética minimalista e performance técnica.
 
