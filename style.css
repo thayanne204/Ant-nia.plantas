@@ -243,3 +243,34 @@ footer {
     justify-content: center;
     z-index: 1000;
 }
+/* ============================================================
+   AJUSTES ESSENCIAIS PARA CELULAR (RESPONSIVIDADE)
+   ============================================================ */
+@media (max-width: 768px) {
+    header {
+        flex-direction: column; /* Empilha logo e menu para não baterem */
+        padding: 15px 5%;
+        position: relative;     /* Fixa o topo no mobile */
+    }
+
+    nav ul {
+        gap: 15px;              /* Dá espaço entre os links do menu */
+        margin-top: 10px;
+    }
+
+    .hero-text h1 {
+        font-size: 1.5rem;      /* Diminui o título para não cobrir a tela toda */
+        letter-spacing: 4px;
+    }
+
+    .whatsapp-fixed {
+        width: 50px;            /* Tamanho humano para o ícone */
+        height: 50px;
+        bottom: 20px;
+        right: 20px;
+    }
+    
+    .vitrine {
+        grid-template-columns: 1fr; /* Uma rosa por linha para ficar grande e bonita */
+    }
+}
