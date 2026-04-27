@@ -10,7 +10,8 @@ Arquitetura Responsiva: Construção realizada com CSS Grid e Flexbox, garantind
 
 Foco em Conversão (CRO): Desenvolvimento focado na jornada do usuário, com Call-to-Actions (CTAs) estratégicos e integração direta com canais de atendimento (WhatsApp).
 
-🛠️ Tecnologias Utilizadas
+🛠️ Tecnologias Utilizadas:
+
 HTML5 Semântico.
 
 CSS3 Avançado (Variáveis, Grid, Flexbox, Animações).
